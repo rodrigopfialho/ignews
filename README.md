@@ -67,13 +67,13 @@ $ yarn dev
 
 <ul align="center">
     <li>
-        <img src="./public/images/p1.png" alt="imagem">
+        <img src="./public/images/p1.png" alt="imagem" width = "500px">
     </li>
     <li>
-        <img src="./public/images/p2.png" alt="imagem">
+        <img src="./public/images/p2.png" alt="imagem" width = "500px">
     </li>
     <li>
-        <img src="./public/images/p3.png" alt="imagem">
+        <img src="./public/images/p3.png" alt="imagem" width = "500px">
     </li>
 </ul>
 
