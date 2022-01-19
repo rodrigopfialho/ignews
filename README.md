@@ -66,9 +66,9 @@ $ yarn dev
 <h1>Imagens do Projeto</h1>
 
 <h1>
-    <img src="./public/images/p1.png" alt="logo">
-    <img src="./public/images/p2.png" alt="logo">
-    <img src="./public/images/p3.png" alt="logo">
+    <img src = "./public/images/p1.png" alt="logo">
+    <img src = "./public/images/p2.png" alt="logo">
+    <img src = "./public/images/p3.png" alt="logo">
 </h1>
 
 
