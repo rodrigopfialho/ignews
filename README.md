@@ -65,5 +65,17 @@ $ yarn dev
 
 <h1>Imagens do Projeto</h1>
 
+<ul align="center">
+    <li>
+        <img src="./public/images/p1.png" alt="imagem">
+    </li>
+    <li>
+        <img src="./public/images/p2.png" alt="imagem">
+    </li>
+    <li>
+        <img src="./public/images/p3.png" alt="imagem">
+    </li>
+</ul>
+
 
 
