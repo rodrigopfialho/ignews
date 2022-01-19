@@ -65,11 +65,11 @@ $ yarn dev
 
 <h1>Imagens do Projeto</h1>
 
-<ul align="center">
-        <img src="./public/images/p1.png" alt="imagem" width = "500px">
-        <img src="./public/images/p2.png" alt="imagem" width = "500px">
-        <img src="./public/images/p3.png" alt="imagem" width = "500px">
-</ul>
+<h1>
+    <img src="./public/images/logo.svg" alt="logo">
+    <img src="./public/images/logo.svg" alt="logo">
+    <img src="./public/images/logo.svg" alt="logo">
+</h1>
 
 
 
