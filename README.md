@@ -12,12 +12,16 @@ ativo com o pagamento podera realizar ler o conteúdo na aplicação. Projeto co
 </p>
 
 <h1>Tecnologias</h1>
-- [React.js](https://pt-br.reactjs.org/)<br>
-- [Prismic CMS](https://prismic.io/)<br>
-- [Stripe](https://stripe.com/)<br>
-- [SASS](https://sass-lang.com/)<br>
-- [FaunaDB](https://fauna.com/)<br>
-- [Next.js](https://nextjs.org/)<br>s
+- [ReactJS](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [SASS](https://sass-lang.com/)
+- [Next-Auth](https://next-auth.js.org/)
+- [Stripe](https://stripe.com/)
+- [FaunaDB](https://fauna.com/)
+- [Prismic CMS](https://prismic.io/)
+
+---
 
 <h1>Instalação</h1>
 # Abra um terminal e copie este repositório com o comando
