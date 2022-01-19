@@ -12,16 +12,16 @@ ativo com o pagamento podera realizar ler o conteúdo na aplicação. Projeto co
 </p>
 
 <h1>Tecnologias</h1>
-- [React.js](https://pt-br.reactjs.org/)
-- [Prismic CMS](https://prismic.io/)
-- [Stripe](https://stripe.com/)
-- [SASS](https://sass-lang.com/)
-- [FaunaDB](https://fauna.com/)
-- [Next.js](https://nextjs.org/)
+- [React.js](https://pt-br.reactjs.org/)<br>
+- [Prismic CMS](https://prismic.io/)<br>
+- [Stripe](https://stripe.com/)<br>
+- [SASS](https://sass-lang.com/)<br>
+- [FaunaDB](https://fauna.com/)<br>
+- [Next.js](https://nextjs.org/)<br>s
 
 <h1>Instalação</h1>
-```
 # Abra um terminal e copie este repositório com o comando
+```
 $ git clone https://github.com/rodrigopfialho/ignews.git
 ```
 
@@ -57,6 +57,8 @@ $ yarn start
 $ yarn dev
 
 ```
+
+<h1>Imagens do Projeto</h1>
 
 
 
