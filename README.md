@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <img src="./public/images/logo.svg" alt="logo">
+</h1>
 
-## Getting Started
 
-First, run the development server:
+<h2>
+    ig.News - Next.js
+</h2>
+<p><span>Sobre - </span>Projeto desenvolvido durante as aulas da trilha Ignite. O projeto é um
+blog desenvolvido onde o usuário ira fazer o seu login com o Github. caso o usuário seja um usuário
+ativo com o pagamento podera realizar ler o conteúdo na aplicação. Projeto conta com as seguintes Tecnologias.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
+<h1>Tecnologias</h1>
+- [React.js](https://pt-br.reactjs.org/)
+- [Prismic CMS](https://prismic.io/)
+- [Stripe](https://stripe.com/)
+- [SASS](https://sass-lang.com/)
+- [FaunaDB](https://fauna.com/)
+- [Next.js](https://nextjs.org/)
+
+<h1>Instalação</h1>
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/rodrigopfialho/ignews.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+# Acesse a pasta da aplicação
+$ cd ignews
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Crie um arquivo .env.local e coloque as variaveis
+# de ambiente baseado, ex.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+#NEXT_PUBLIC_STRIPE_PUBLIC_KEY=
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+#STRIPE_API_KEY=
+#STRIPE_WEBHOOK_SECRET=
+#STRIPE_SUCCESS_URL=http://localhost:3000/posts
+#STRIPE_CANCEL_URL=http://localhost:3000/
 
-## Learn More
+#GITHUB_CLIENT_ID=
+#GITHUB_CLIENT_SECRET=
 
-To learn more about Next.js, take a look at the following resources:
+#FAUNADB_KEY=
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#PRISMIC_ENDPOINT=
+#PRISMIC_ACCESS_TOKEN=
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+# Instale as dependências
+$ yarn
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Inicie a aplicação
+$ yarn start
+# ou
+$ yarn dev
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```
+
+
+
